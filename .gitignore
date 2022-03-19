@@ -1,0 +1,9 @@
+.coverage
+.idea/
+*.log
+htmlcov/
+venv/
+__pycache__/
+*$py.class
+*.html
+report.html
